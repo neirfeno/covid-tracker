@@ -42,7 +42,7 @@ An IOS app developed natively for this project.
 ### Central at risk server ![todo](https://img.shields.io/badge/status-TODO-lightgrey)
 The centralised server will accept an upload of data, and create daily rolling digest of identifiers that have been in contact with a confirmed case. The centralised server will allow these reports to be downloaded by the client. The static nature of the data distribution allows for the reports to be offloaded to a CDN service to improve performance and reduce costs.
 
-## Contribution ![issues](https://img.shields.io/bitbucket/issues-raw/neirfeno/covid-tracker)
+## Contribution
 Everyone is welcome to contribute to this project, please fork this repository and begin creating Pull Requests, tasks are tracked through the issues tab.
 
 ## License ![MIT](https://img.shields.io/github/license/neirfeno/covid-tracker)
